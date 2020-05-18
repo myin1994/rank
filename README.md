@@ -11,6 +11,8 @@
    响应数据：暂定成功或错误状态码
    ```
 
+   <a src='https://github.com/myin1994/rank/blob/master/rank/myrank/views.py'>视图链接</a>
+
 2. 客户端查询排行榜
 
    ```
