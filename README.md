@@ -26,36 +26,56 @@
    [
        {
            "1": {
-               "uid__id": 49,
-               "uid__username": "客户端49",
-               "personal_high_score": 1046
+               "uid": 4,
+               "client_name": "客户端4",
+               "score": 33300
            },
            "2": {
-               "uid__id": 48,
-               "uid__username": "客户端48",
-               "personal_high_score": 1045
+               "uid": 27,
+               "client_name": "客户端27",
+               "score": 6474
            },
            "3": {
-               "uid__id": 47,
-               "uid__username": "客户端47",
-               "personal_high_score": 1044
+               "uid": 26,
+               "client_name": "客户端26",
+               "score": 6454
            },
            "4": {
-               "uid__id": 46,
-               "uid__username": "客户端46",
-               "personal_high_score": 1043
+               "uid": 25,
+               "client_name": "客户端25",
+               "score": 3454
            },
            "5": {
-               "uid__id": 45,
-               "uid__username": "客户端45",
-               "personal_high_score": 1042
+               "uid": 24,
+               "client_name": "客户端24",
+               "score": 3444
+           },
+           "6": {
+               "uid": 23,
+               "client_name": "客户端23",
+               "score": 3424
+           },
+           "7": {
+               "uid": 1,
+               "client_name": "客户端1",
+               "score": 500
+           },
+           "8": {
+               "uid": 2,
+               "client_name": "客户端2",
+               "score": 400
+           },
+           "9": {
+               "uid": 3,
+               "client_name": "客户端3",
+               "score": 100
            }
        },
        {
-           "1": {
-               "uid__id": 49,
-               "uid__username": "客户端49",
-               "personal_high_score": 1046
+           "8": {
+               "uid": 2,
+               "client_name": "客户端2",
+               "score": 400
            }
        }
    ]
