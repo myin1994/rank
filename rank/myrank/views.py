@@ -12,6 +12,13 @@ import json
 class RankSolver(View):
 
     def get_rank(self, uid, start, end):
+        """
+        使用redis-有序集合实现查询
+        :param uid: 当前客户端id
+        :param start: 排名开始位置
+        :param end: 排名结束位置
+        :return: [范围内的排名数据，当前客户端的排名及分数]
+        """
         coon = redis.Redis(connection_pool=POOL)
         rank_data = coon.zrevrange("topscore", start, end, withscores=True, score_cast_func=int)
         user_rank_data = {

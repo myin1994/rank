@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ccb249-ad60-425d-be37-79624443ce2f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myrank/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myredis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myrank/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myrank/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589771685384</updated>
-      <workItem from="1589771686645" duration="14716000" />
+      <workItem from="1589771686645" duration="15155000" />
     </task>
     <servers />
   </component>
